@@ -1,3 +1,3 @@
-# BlackJack Argentino
-Programacion Orientada a Objetos
-SCIALCHI LUCIANO AGUSTIN 166719
+# 🎰 BlackJack Argentino  | Scialchi Luciano 166719
+Programacion Orientada a Objetos con RMI MVC
+
